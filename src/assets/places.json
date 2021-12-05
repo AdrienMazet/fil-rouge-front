@@ -1,0 +1,267 @@
+[
+  {
+    "x": "57.5%",
+    "y": "87.5%",
+    "limit": 2,
+    "type": "DESK",
+    "reservations": [
+      "Lawrence_Deshawn"
+    ]
+  },
+  {
+    "x": "57%",
+    "y": "76.5%",
+    "limit": 2,
+    "type": "DESK",
+    "reservations": [
+      "Eamon_Rudy"
+    ]
+  },
+  {
+    "x": "62%",
+    "y": "76.5%",
+    "limit": 2,
+    "type": "DESK",
+    "reservations": [
+      "Judd_Josh"
+    ]
+  },
+  {
+    "x": "62%",
+    "y": "66.5%",
+    "limit": 2,
+    "type": "DESK",
+    "reservations": [
+      "Han_Cuthbert"
+    ]
+  },
+  {
+    "x": "57%",
+    "y": "66.5%",
+    "limit": 2,
+    "type": "DESK",
+    "reservations": [
+      "Valentin_Euan"
+    ]
+  },
+  {
+    "x": "55.5%",
+    "y": "57%",
+    "limit": 1,
+    "type": "DESK",
+    "reservations": [
+      "Lamar_Karl"
+    ]
+  },
+  {
+    "x": "61.5%",
+    "y": "47.5%",
+    "limit": 2,
+    "type": "DESK",
+    "reservations": [
+      "Lochlan_Lochlan"
+    ]
+  },
+  {
+    "x": "62%",
+    "y": "52%",
+    "limit": 2,
+    "type": "DESK",
+    "reservations": [
+      "Cillian_Robin"
+    ]
+  },
+  {
+    "x": "70.5%",
+    "y": "72.5%",
+    "limit": 4,
+    "type": "MEETING",
+    "reservations": [
+      "Koby_Jacques",
+      "Brennon_Maxim",
+      "Boyd_Paolo"
+    ]
+  },
+  {
+    "x": "55.5%",
+    "y": "47.5%",
+    "limit": 5,
+    "type": "BREAK",
+    "reservations": [
+      "Erik_August",
+      "Ram_Fergal",
+      "Tristen_Francesco",
+      "Eduardo_Triston"
+    ]
+  },
+  {
+    "x": "67%",
+    "y": "10%",
+    "limit": 3,
+    "type": "MANAGER",
+    "reservations": [
+      "Darryn_Nicholas",
+      "Rylan_Tanner"
+    ]
+  },
+  {
+    "x": "51.5%",
+    "y": "10.5%",
+    "limit": 2,
+    "type": "BREAK",
+    "reservations": [
+      "Dilan_Athan"
+    ]
+  },
+  {
+    "x": "49.5%",
+    "y": "24.5%",
+    "limit": 16,
+    "type": "MEETING",
+    "reservations": [
+      "Tristen_Rodrigo",
+      "Huw_Aldrin",
+      "Osvaldo_Blaine",
+      "Laurie_Easton",
+      "Raymond_Camden",
+      "Gunner_Dwight",
+      "Lake_Malik",
+      "Tam_Rob",
+      "Leroy_Asad",
+      "Pedro_Godwin",
+      "Louis_Frank",
+      "Ayaan_Klaus",
+      "Boston_Basil",
+      "Hunter_Keith",
+      "Tiago_Ziggy"
+    ]
+  },
+  {
+    "x": "40.5%",
+    "y": "11.5%",
+    "limit": 2,
+    "type": "MEETING",
+    "reservations": [
+      "Raphael_Louis"
+    ]
+  },
+  {
+    "x": "40%",
+    "y": "26.5%",
+    "limit": 8,
+    "type": "BREAK",
+    "reservations": [
+      "Barry_Ellington",
+      "Rene_Riordan",
+      "Al_Leo",
+      "Roger_Jackie",
+      "Kylar_Brentley",
+      "Malakai_Caleb",
+      "Andrew_Godwin"
+    ]
+  },
+  {
+    "x": "28.5%",
+    "y": "11.5%",
+    "limit": 3,
+    "type": "MANAGER",
+    "reservations": [
+      "Ace_Rhett",
+      "Darren_Trenton"
+    ]
+  },
+  {
+    "x": "25.5%",
+    "y": "22.5%",
+    "limit": 2,
+    "type": "DESK",
+    "reservations": [
+      "Pierce_Ronald"
+    ]
+  },
+  {
+    "x": "24.5%",
+    "y": "45.5%",
+    "limit": 2,
+    "type": "DESK",
+    "reservations": [
+      "Willis_Gene"
+    ]
+  },
+  {
+    "x": "31.5%",
+    "y": "44.5%",
+    "limit": 2,
+    "type": "DESK",
+    "reservations": [
+      "Kristian_Max"
+    ]
+  },
+  {
+    "x": "34.5%",
+    "y": "44.5%",
+    "limit": 2,
+    "type": "DESK",
+    "reservations": [
+      "Jersey_Etienne"
+    ]
+  },
+  {
+    "x": "33%",
+    "y": "53.5%",
+    "limit": 2,
+    "type": "DESK",
+    "reservations": [
+      "Steve_Ajay"
+    ]
+  },
+  {
+    "x": "31.5%",
+    "y": "63.5%",
+    "limit": 2,
+    "type": "DESK",
+    "reservations": [
+      "Wolfgang_Sylvester"
+    ]
+  },
+  {
+    "x": "34.5%",
+    "y": "63.5%",
+    "limit": 2,
+    "type": "DESK",
+    "reservations": [
+      "Edwin_Denzel"
+    ]
+  },
+  {
+    "x": "32.5%",
+    "y": "73.5%",
+    "limit": 2,
+    "type": "DESK",
+    "reservations": [
+      "Lee_Willis"
+    ]
+  },
+  {
+    "x": "32.5%",
+    "y": "85.5%",
+    "limit": 5,
+    "type": "MEETING",
+    "reservations": [
+      "Bently_Pedro",
+      "Tex_Reef",
+      "Zeb_Kobe",
+      "Kash_Rider"
+    ]
+  },
+  {
+    "x": "69.5%",
+    "y": "38.5%",
+    "limit": 3,
+    "type": "MEETING",
+    "reservations": [
+      "Carey_Warren",
+      "Salman_Rajesh"
+    ]
+  }
+]
