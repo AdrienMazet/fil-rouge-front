@@ -1,11 +1,11 @@
 import "antd/dist/antd.css";
 import React from "react";
 import ReactDOM from "react-dom";
-import Map from "./components/Map";
+import LeafletMap from "./components/LeafletMap";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Map />
+    <LeafletMap />
   </React.StrictMode>,
   document.getElementById("root")
 );
